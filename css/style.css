@@ -52,7 +52,6 @@ body {
 .container h1{
   color: hsl(0, 0%, 100%);
   margin: 1rem 0.5rem 1rem 0;
-  font-weight: 600;
 }
 
 .container h1:hover{
